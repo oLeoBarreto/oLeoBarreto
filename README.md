@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhando como estagiorio em desenvolvimento
 - 🌱 Sempre estudando varias tecnologias ...
-- 
+
 <div align="center">
   <a href="https://github.com/oLeoBarreto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oLeoBarreto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
