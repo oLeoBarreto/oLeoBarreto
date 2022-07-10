@@ -1,6 +1,6 @@
-## Eai me chamo Leonardo Barreto
+## Eai me chamo Leonardo Barreto!!
 
-- 🔭 Trabalhando como estagiorio em desenvolvimento
+- 🔭 Trabalhando como desenvolvimento junior
 - 🌱 Sempre estudando varias tecnologias ...
 
 <div align="center">
