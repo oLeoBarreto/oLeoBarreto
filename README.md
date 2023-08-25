@@ -1,7 +1,9 @@
-## Eai me chamo Leonardo Barreto!!
+## Me chamo Leonardo Barreto!!
 
-- 🔭 Trabalhando como desenvolvimento junior
-- 🌱 Sempre estudando varias tecnologias ...
+Um pouco sobre mim:
+- 💻 Trabalhando como desenvolvedor.
+- 🌱 Procurando sempre evoluir.
+- 🧑‍🎓 Estudante de engenharia da computação.
 
 <div align="center">
   <a href="https://github.com/oLeoBarreto">
